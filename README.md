@@ -19,7 +19,7 @@ Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh/) API
     <img src="./img/15_preview.png" alt="Original preview">
 </div>
 
-<!--
+
 ## My solution preview
 
  <div style="text-align:center;display:flex; flex-direction:column;justify-content:center;" >
@@ -28,7 +28,8 @@ Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh/) API
 
 ## My solution features
 
-- same as an original --> -->
+- custom UI/UX design
+- the rest is same as an original
 
 # Author
 
